@@ -22,7 +22,7 @@ A Full-Stack Web Developer currently living in Patna, India. I love combining th
 
 💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, and MongoDb.
 
-🥅 *2021 Goals :* Learning new things and contribut more and more. 
+🥅 *2021 Goals :* Learning new things and contribute more and more. 
 
 <!-- <a width="50%" margin="auto" href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dastan27&theme=buefy&show_icons=true" /> -->
