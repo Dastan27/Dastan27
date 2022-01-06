@@ -24,7 +24,7 @@ A Full-Stack Web Developer currently living in Patna, India. I love combining th
 
 🥅 *2021 Goals :* Learning new things and contribute more and more. 
 
-<a width="48%" margin="auto" display="flex" href="#">
+<a width="50%" margin="auto" display="inline" href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dastan27&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dastan27&theme=buefy&layout=compact" />
 </a>
