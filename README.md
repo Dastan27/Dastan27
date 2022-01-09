@@ -3,7 +3,7 @@ Hello, I'm **Rishabh Anand**
 <p><em>Learning web development at <a href="https://www.masaischool.com/">Masai school</a></em></p>
 
 A Full-Stack Web Developer currently living in Patna, India. I love combining the worlds of logic and creative design to make a eye-catching, accessible, and user-friendly websites and applications.
- Highly skilled in collabration, and DS & Algo.
+ Highly skilled in collaboration, and DS & Algo.
  
  <p >
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
@@ -32,4 +32,4 @@ A Full-Stack Web Developer currently living in Patna, India. I love combining th
 
 <h3> 🤝🏻 &nbsp;Visit my Portfolio to know More... </h3>
 
-**Rishabh Anand** - https://portfolio-vert-alpha-93.vercel.app/
+**Rishabh Anand** - https://portfolio-rishabhanand02-gmailcom.vercel.app/
