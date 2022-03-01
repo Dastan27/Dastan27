@@ -1,6 +1,6 @@
 Hello, I'm **Rishabh Anand** 
 
-<p><em>Learning web development at <a href="https://www.masaischool.com/">Masai school</a></em></p>
+<p><em>Recently completed Full Stack Web Development course at <a href="https://www.masaischool.com/">Masai school</a></em></p>
 
 A Full-Stack Web Developer currently living in Patna, India. I love combining the worlds of logic and creative design to make a eye-catching, accessible, and user-friendly websites and applications.
  Highly skilled in collaboration, and DS & Algo.
