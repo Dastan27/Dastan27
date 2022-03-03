@@ -22,7 +22,7 @@ A Full-Stack Web Developer currently living in Patna, India. I love combining th
 
  I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, and MongoDb.
+💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, NodeJS and MongoDb.
 
 🥅 *2021 Goals :* Learning new things and contribute more and more. 
 
