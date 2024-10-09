@@ -1,6 +1,6 @@
 Hello, I'm **Rishabh Anand** 
 
-<p><em>Currently working as NodeJS Developer at Q3 Technologies, where my key role is to develope APIs for Freedo Rentals as per business requirements.  <a href="https://uat.freedo.rentals/"></a></em></p>
+<p><em>Currently working as NodeJS Developer at Q3 Technologies, where my key role is to develope APIs as per business requirements.  <a href="https://uat.freedo.rentals/"></a></em></p>
 <p><em>Before that I completed Full Stack Web Development course at <a href="https://www.masaischool.com/">Masai school</a></em></p>
 
 A Full-Stack Web Developer currently living in Patna, India. I love combining the worlds of logic and creative design to make a eye-catching, accessible, and user-friendly websites and applications.
