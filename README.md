@@ -16,6 +16,8 @@ A Full-Stack Web Developer currently living in Patna, India. I love combining th
  <img src="https://img.shields.io/badge/CSS-css-lightblue"/>
   <img src="https://img.shields.io/badge/Redis-Redis-red"/>
   <img src="https://img.shields.io/badge/Postgre-Postgre-blue"/>
+  <img src="https://img.shields.io/badge/Salesforce Admin-Salesforce Admin-lightblue"/>
+  <img src="https://img.shields.io/badge/MS Dynamics-MS Dynamics-red"/>
 </p>
 
 
